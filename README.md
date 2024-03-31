@@ -36,7 +36,10 @@ The application utilizes two APIs for fetching weather data:
 - Provides a user-friendly experience by alerting users to select the "current" option first before entering a specific location.
 
 ### 6. Zip Code and Address Input:
-Users can conveniently input either an address or a zip code to retrieve weather information. Upon entry, the application seamlessly calls the Geoapify API to fetch the corresponding coordinates for the provided location. Subsequently, leveraging the obtained coordinates, the application fetches weather data from the OpenWeatherMap API, ensuring users receive accurate and up-to-date weather updates for their specified location. This feature enhances user flexibility and convenience, allowing for a smoother and more intuitive weather forecasting experience.
+- Users have the flexibility to enter either an address or a zip code to retrieve weather information.
+- When an address or zip code is entered, the application calls the Geoapify API to fetch coordinates corresponding to the provided - location.
+- After obtaining the coordinates, the application then calls the OpenWeatherMap API to fetch weather data for the specified location.
+- This feature enhances user convenience by allowing them to access weather information using various location inputs, ensuring a seamless and user-friendly experience.
 ---
 
 With Forecast Fusion, users can stay informed about weather conditions anywhere in the world and plan their activities accordingly. Whether it's a sunny day at the beach or a rainy day indoors, Forecast Fusion has got you covered! 
