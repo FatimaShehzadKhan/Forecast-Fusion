@@ -44,3 +44,10 @@ The application utilizes two APIs for fetching weather data:
 ---
 
 With Forecast Fusion, users can stay informed about weather conditions anywhere in the world and plan their activities accordingly. Whether it's a sunny day at the beach or a rainy day indoors, Forecast Fusion has got you covered! 
+
+![image](https://github.com/FatimaShehzadKhan/Forecast-Fusion/assets/78612041/f63bbf81-d741-4470-83a7-c85854f66e4a)
+![image](https://github.com/FatimaShehzadKhan/Forecast-Fusion/assets/78612041/539463b3-bfca-44a5-82cd-63178321079b)
+![image](https://github.com/FatimaShehzadKhan/Forecast-Fusion/assets/78612041/2207cd27-7faf-4cdc-b689-802d883f03bc)
+![image](https://github.com/FatimaShehzadKhan/Forecast-Fusion/assets/78612041/3000ba17-2461-49ef-8a02-d1a95d4bd388)
+![image](https://github.com/FatimaShehzadKhan/Forecast-Fusion/assets/78612041/9db2bb51-9b8b-48e4-ad40-96b5cecf0c21)
+
