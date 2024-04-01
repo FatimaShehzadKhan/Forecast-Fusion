@@ -43,8 +43,8 @@ function App() {
   };
   const timeString = currentDate.toLocaleTimeString("en-US", timeOptions);
 
-  const geoapifyApiKey = "2c2ed9c6cfae46cc9df888836cbfc282";
-  const openWeatherMapApiKey = "e6e6ea37387ddc450969eab37eba4971";
+  const geoapifyApiKey = "Your-api-key";
+  const openWeatherMapApiKey = "Your-api-key";
   const [location, setLocation] = useState("");
   const [weather, setWeather] = useState({});
   const [backgroundImage, setBackgroundImage] = useState("");
